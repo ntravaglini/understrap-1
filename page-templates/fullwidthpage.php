@@ -51,11 +51,6 @@ if ( is_page_template( 'page-templates/no-title.php' ) ) {
 
 		</div><!-- .row -->
 
-		<div class="row">
-			<div class="col-md-4 bg-primary text-center"><h1>TEST</h1></div>
-			<div class="col-md-4 bg-primary"><h1>TEST</h1></div>
-		</div>
-
 	</div><!-- #content -->
 
 </div><!-- #<?php echo $wrapper_id; // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped -- ok. ?> -->
